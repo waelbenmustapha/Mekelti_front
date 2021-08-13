@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505625333009",
+    "project_id": "mekelti-15472",
+    "storage_bucket": "mekelti-15472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505625333009:android:90cff46b5abe7b863790b0",
+        "android_client_info": {
+          "package_name": "com.meklti.tn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505625333009-8lalgcrf2t1qh7f5n78mejm6gv93jtcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmquVUlhdNGK09EVDfoYtgpP9RcwCIi9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505625333009-8lalgcrf2t1qh7f5n78mejm6gv93jtcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
